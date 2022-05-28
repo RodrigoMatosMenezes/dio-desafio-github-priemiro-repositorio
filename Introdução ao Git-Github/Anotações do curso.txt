@@ -1,0 +1,9 @@
+Comandos do Git no Windowns
+* DIR = Listagem de pastas
+* CD/ = Navegação entre as pastas
+* CD .. = Retroceder 1 repositório
+* CLS = Limpar tela
+* MKDIR = Criar pasta
+* DEL = Deletar arquivos
+* RMDIR = Remover arquivos
+
